@@ -7,4 +7,9 @@ I found this algorithm quite difficult to get correct. I found that there were s
 
 ## Images
 
-<img src="./Boids_with_chunks.png" width=719px height=324px>
+<img src="./Images/Boids_with_chunks.png" width=783px height=507px>
+<img src="./Images/Boid_still.png" width=508px height=515px>
+
+### *A cool image that came from some messed-up parameters*
+
+<img src="./Images/Boid_art.png" width=950px height=425px>
